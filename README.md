@@ -2,7 +2,7 @@
 
 A complete proof-of-concept (POC) demonstrating how to host workloads on AWS using a VPC with public/private subnets, NAT Gateway, and VPC Endpoints to securely access DynamoDB and S3 — without traffic ever leaving the AWS network.
 
-![Uploading Architechture Diagram.jpg…]()
+![Architecture Diagram](Architechture%20Diagram.jpg)
 
 ---
 
